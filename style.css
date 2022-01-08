@@ -1,0 +1,24 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+canvas
+{
+     border:20px solid darkred;
+     border-radius: 10px;
+}
+#copy_right_footer
+{
+    font-size: 25px;
+    background-color: red;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    color: lightblue;
+}
